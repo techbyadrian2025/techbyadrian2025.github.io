@@ -1,0 +1,18 @@
+header {
+    text-align: center;
+    margin: 40px 0px 0px 0px;
+    padding: 20px 0px 0px 0px;
+}
+ul {
+    padding: 10px;
+}
+li {
+    display: inline;
+    padding: 0px 10px 0px 0px
+}
+body {
+    text-align: center;
+}
+html {
+    text-align: center;
+}
